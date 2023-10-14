@@ -1,4 +1,4 @@
-# WIMP - 2인용 멀티플레이 방탈출 게임
+# WIMF - 2인용 멀티플레이 방탈출 게임
 
 [팀 홈페이지(2023-20)](https://kookmin-sw.github.io/capstone-2023-20/)
 
